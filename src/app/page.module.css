@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #b515f4;
+}
+
+.heading {
+  color: #8ef7ee;
+  font-size: 44px;
+  text-align: center;
+}
